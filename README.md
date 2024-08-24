@@ -4,7 +4,7 @@ Behold, the TestTrick-inator! A Chrome extension designed to outsmart tests and 
 
 ## What is this?
 
-TestTrick-inator is a whimsical yet practical Chrome extension inspired by the inventions of Dr. Heinz Doofenshmirtz from "Phineas and Ferb". It allows users to capture screenshots of web pages and extract text from them, all while delivering a dose of evil-scientist humor.
+TestTrick-inator is a whimsical yet practical Chrome extension that allows users to capture screenshots of web pages and extract text from them, all while delivering a dose of evil-scientist humor.
 
 ## Features
 
