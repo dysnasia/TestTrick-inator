@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "TestTrick-inator",
+  "version": "1.0",
+  "description": "Behold! The TestTrick-inator! Designed to outsmart tests and maybe, just maybe, take over the Tri-State Area's education system!",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["html2canvas.min.js", "content.js"]
+    }
+  ]
+}
