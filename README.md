@@ -9,8 +9,7 @@ TestTrick-inator is a whimsical yet practical Chrome extension that allows users
 ## Features
 
 - 📸 Capture screenshots of any web page
-- 🔍 Extract text from captured images using OCR
-- 🦹‍♂️ Doofenshmirtz-style user interface and messages
+- 🔍 Extract text from captured images
 - 🦆 Built-in resistance to platypus interference
 
 ## Serious Note
